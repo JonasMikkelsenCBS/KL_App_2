@@ -45,7 +45,7 @@
         android:layout_height="match_parent"
         android:layout_gravity="start"
         android:fitsSystemWindows="true"
-        app:headerLayout="@layout/nav_header_top"
-        app:menu="@menu/activity_landing_page_drawer" />
+        app:headerLayout="@layout/landing_page_drawer_header"
+        app:menu="@menu/landing_page_drawer" />
 
 </android.support.v4.widget.DrawerLayout>
